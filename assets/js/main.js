@@ -164,7 +164,7 @@
     aos_init();
   });
 
-  var user = "lucascontato1419";
+  var user = "gcortesteixeira";
   var domain = "gmail.com";
   var link = user + "@" + domain;
   var encodedLink = "";
