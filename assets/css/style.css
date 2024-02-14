@@ -264,6 +264,12 @@ a:hover {
   background-size: cover;
 }
 
+.text {
+    max-width: 600px; 
+    margin: 20px auto; 
+}
+
+
 #hero:before {
   content: "";
   background: rgba(5, 13, 24, 0.3);
