@@ -706,7 +706,7 @@ section {
 
 .contact .info {
   padding: 30px;
-  background: #8dc9e0;
+  background: #FFFFFF;
   width: 100%;
   box-shadow: 1 0 24px 0 rgba(0, 0, 0, 0.12);
 }
@@ -852,7 +852,7 @@ section {
   background: #149ddd;
   border: 0;
   padding: 10px 24px;
-  color: #fff;
+  color: #FFFFFF;
   transition: 0.4s;
   border-radius: 4px;
 }
